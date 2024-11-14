@@ -1,0 +1,14 @@
+{
+  "name": "codex-api-token-test",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@codex-data/sdk": "1.0.0-rc2"
+  }
+}
