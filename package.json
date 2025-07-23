@@ -9,6 +9,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "@codex-data/sdk": "1.0.0-rc2"
+    "@codex-data/sdk": "1.0.13"
   }
 }
+
